@@ -10,3 +10,7 @@
     <p>Test Paragraph</p>
   </body>
 </html>
+
+p {
+  color:red;
+}
