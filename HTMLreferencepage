@@ -46,3 +46,14 @@
       <p>Example: &ltp&gt My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
     <h6  style="font-size:100%;">Display</h6>
       <p>My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
+      
+       <h2  style="font-size:200%;">Head</h2>
+    <h3  style="font-size:100%;">Description</h3>
+        <p>Heads the paragraph</p>
+    <h4  style="font-size:100%;">Syntax</h4>
+      <p>written as &lthead&gt to &lt/head&gt</p>
+    <h5  style="font-size:100%;">Example</h5>
+      <p>Example: &lthead&gt "Soups" &lt/head&gt.</p>
+    <h6  style="font-size:100%;">Display</h6>
+      <p>My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
+
