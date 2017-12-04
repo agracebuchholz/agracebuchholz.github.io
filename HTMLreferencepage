@@ -96,7 +96,7 @@
     <h5  style="font-size:100%;">Example</h5>
       <p> &lta href="https://www.w3schools.com/html/default.asp"&gtThis is a link&lt/a&gt</p>
     <h6  style="font-size:100%;">Display</h6>
-       <a href="https://www.w3schools.com/html/default.asp"<This is a link</a>
+       <a href="https://www.w3schools.com/html/default.asp">This is a link</a>
        
         <h2  style="font-size:200%;">Images</h2>
     <h3  style="font-size:100%;">Description</h3>
