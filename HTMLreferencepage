@@ -102,10 +102,26 @@
     <h3  style="font-size:100%;">Description</h3>
         <p>Inserts photographs or drawings into webpage</p>
     <h4  style="font-size:100%;">Syntax</h4>
-      <p>written as &limg&gt to &lt/img&gt</p>
+      <p>written as &ltimg&gt to &lt/img&gt</p>
     <h5  style="font-size:100%;">Example</h5>
       <p>&ltimg src="https://kids.nationalgeographic.com/animals/west-indian-manatee/#west-indian-manatee-group.jpg"/img&gt</p>
     <h6  style="font-size:100%;">Display</h6>
        <p><img src="https://kids.nationalgeographic.com/animals/west-indian-manatee/#west-indian-manatee-group.jpg"/img></p>
        
+       h2  style="font-size:200%;">Lists</h2>
+    <h3  style="font-size:100%;">Description</h3>
+        <p>states multiple things in list order</p>
+    <h4  style="font-size:100%;">Syntax</h4>
+      <p>written as &ltul&gt to &lt/ul&gt to start and end list and &ltli&gt to &lt/li&gt to put items in list syntax</p>
+    <h5  style="font-size:100%;">Example</h5>
+      <p>&ltulgt
+      &ltli&gt Sushi &lt/li&gt
+      &ltli&gt Beets &lt/li&gt
+      &ltli&gt Onions &lt/li&gt 
+      &lt/ul&gt</p>
+    <h6  style="font-size:100%;">Display</h6>
+       <ul> Shopping List
+       <li> Sushi </li>
+       <li> Beets </li>
+       <li> Onions </li>
        
