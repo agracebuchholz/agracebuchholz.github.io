@@ -77,4 +77,13 @@
     <h6  style="font-size:100%;">Display</h6>
        <p>I wanna know <br> have you ever seen the rain</p>
        
-       <hr> My son </hr>
+      <h2  style="font-size:200%;">Lines</h2>
+    <h3  style="font-size:100%;">Description</h3>
+        <p>Splits data/words with horizontal line, rather than paragraph break</p>
+    <h4  style="font-size:100%;">Syntax</h4>
+      <p>written as &lthr&gt to &lthr&gt</p>
+    <h5  style="font-size:100%;">Example</h5>
+      <p> &lthr&gt</p>
+    <h6  style="font-size:100%;">Display</h6>
+       <p><hr></p>
+       
