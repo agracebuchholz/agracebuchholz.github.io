@@ -84,6 +84,6 @@
     <h4  style="font-size:100%;">Syntax</h4>
       <p>written as &lt!--   --&gt to &lt/!--   --&gt</p>
     <h5  style="font-size:100%;">Example</h5>
-      <p> &lt<!--I love this HTML reference page!-->&gt</p>
+      <p> &lt!--Comment Here--&gt</p>
     <h6  style="font-size:100%;">Display</h6>
-       <p> <!--I love this HTML reference page!--> </p>
+       <p> <!--Comment Here--> </p>
