@@ -86,4 +86,4 @@
     <h5  style="font-size:100%;">Example</h5>
       <p> &lt<!--I love this HTML reference page!-->&gt</p>
     <h6  style="font-size:100%;">Display</h6>
-       <p><!--I love this HTML reference page!--></p>
+       <p> <!--I love this HTML reference page!--> </p>
