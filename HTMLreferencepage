@@ -87,3 +87,13 @@
     <h6  style="font-size:100%;">Display</h6>
        <p><hr></p>
        
+       
+         <h2  style="font-size:200%;">Comments</h2>
+    <h3  style="font-size:100%;">Description</h3>
+        <p>allows other to contribute to your page</p>
+    <h4  style="font-size:100%;">Syntax</h4>
+      <p>written as &lt<!--   -->&gt to &lt</!--   -->&gt</p>
+    <h5  style="font-size:100%;">Example</h5>
+      <p> &lt!--I love this HTML reference page!--&gt</p>
+    <h6  style="font-size:100%;">Display</h6>
+       <p><!-- I love this HTML reference page!   --></p>
