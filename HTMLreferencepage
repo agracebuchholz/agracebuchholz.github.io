@@ -7,6 +7,7 @@
     <title>repl.it</title>
     <link href="index.css" rel="stylesheet" type="text/css" />
   \
+  <hr>
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
     <h2  style="font-size:200%;">Headers</h2>
@@ -18,7 +19,9 @@
       <p>Example: &lth1&gt "Examples" &lt/h1&gt</p>
     <h6  style="font-size:100%;">Display</h6>
       <p>"Examples"</p>
-      
+  
+  <hr>
+  
     <h2  style="font-size:200%;">HTML Setup</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Introduce HTML format to a website</p>
@@ -26,7 +29,9 @@
       <p>written as &ltHTML&gt</p>
     <h5  style="font-size:100%;">Example</h5>
       <p>Example not relevant because HTML setup is not visisble, it just sets up the formatting</p>
-      
+  
+  <hr>
+  
       <h2  style="font-size:200%;">Titles</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Titles each piece</p>
@@ -36,7 +41,9 @@
       <p>Example: &ltDogs Of The World&gt</p>
     <h6  style="font-size:100%;">Display</h6>
       <p>Dogs of the World (and then proceed to text)</p>
-      
+  
+  <hr>
+  
       <h2  style="font-size:200%;">Body</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Starts and ends the paragraphs</p>
@@ -46,7 +53,9 @@
       <p>Example: &ltp&gt My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
     <h6  style="font-size:100%;">Display</h6>
       <p>My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
-      
+  
+  <hr>
+  
        <h2  style="font-size:200%;">Head</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Heads the paragraph</p>
@@ -56,7 +65,9 @@
       <p>Example: &lthead&gt "Soups" &lt/head&gt.</p>
     <h6  style="font-size:100%;">Display</h6>
       <head> Soups </head>
-      
+  
+  <hr>
+  
          <h2  style="font-size:200%;">Breaks</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Splits data/words into lines</p>
@@ -66,7 +77,9 @@
       <p>I wanna know &ltbr&gt have you ever seen the rain</p>
     <h6  style="font-size:100%;">Display</h6>
        <p>I wanna know <br> have you ever seen the rain</p>
-       
+  
+  <hr>
+  
       <h2  style="font-size:200%;">Lines</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Splits data/words with horizontal line, rather than paragraph break</p>
@@ -76,7 +89,9 @@
       <p> &lthr&gt</p>
     <h6  style="font-size:100%;">Display</h6>
        <p><hr></p>
-       
+  
+  <hr>
+  
        
          <h2  style="font-size:200%;">Comments</h2>
     <h3  style="font-size:100%;">Description</h3>
@@ -88,6 +103,8 @@
     <h6  style="font-size:100%;">Display</h6>
        <p><!--Comment Here--></p>
 
+<hr>
+
  <h2  style="font-size:200%;">Links</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>after clicking, reroutes user to a new page</p>
@@ -97,7 +114,9 @@
       <p> &lta href="https://www.w3schools.com/html/default.asp"&gtThis is a link&lt/a&gt</p>
     <h6  style="font-size:100%;">Display</h6>
        <a href="https://www.w3schools.com/html/default.asp">This is a link</a>
-       
+
+<hr>
+
         <h2  style="font-size:200%;">Images</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Inserts photographs or drawings into webpage</p>
@@ -107,7 +126,9 @@
       <p>&ltimg src="https://kids.nationalgeographic.com/animals/west-indian-manatee/#west-indian-manatee-group.jpg"/img&gt</p>
     <h6  style="font-size:100%;">Display</h6>
        <p><img src="https://kids.nationalgeographic.com/animals/west-indian-manatee/#west-indian-manatee-group.jpg"/img></p>
-       
+
+<hr>
+
        <h2  style="font-size:200%;">Lists</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>states multiple things in list order</p>
@@ -125,3 +146,4 @@
        <li> Beets </li>
        <li> Onions </li>
        
+<hr>
