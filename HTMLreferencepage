@@ -10,6 +10,31 @@
   <hr>
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
+    
+    <table style="width:100%">
+  <tr>
+    <th>Element</th>
+    <th>Start Tage</th> 
+    <th>End Tag</th>
+    <th>Example</th>
+  </tr>
+  <tr>
+    <td>Headings</td>
+    <td>&lth&gt</td> 
+    <td>&lt/h&gt</td>
+    <td>&lth&gt Headings &lt/h&gt </td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>&ltHTML&gt</td> 
+    <td>no end tag</td>
+    <td>&ltHTML&gt</td>
+  </tr>
+  <tr>
+      <td>
+</table>
+    
+    
     <h2  style="font-size:200%;">Headers</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Introduce each paragraph.</p>
