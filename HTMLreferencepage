@@ -97,3 +97,15 @@
       <p> &lta href="https://www.w3schools.com/html/default.asp"&gtThis is a link&lt/a&gt</p>
     <h6  style="font-size:100%;">Display</h6>
        <p><a href="https://www.w3schools.com/html/default.asp">This is a link></p>
+       
+        <h2  style="font-size:200%;">Images</h2>
+    <h3  style="font-size:100%;">Description</h3>
+        <p>Inserts photographs or drawings into webpage</p>
+    <h4  style="font-size:100%;">Syntax</h4>
+      <p>written as &limg&gt to &lt/img&gt</p>
+    <h5  style="font-size:100%;">Example</h5>
+      <p> &ltimg src="https://www.google.com/search?q=christmas+tree&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjx9YXMwe_XAhUW8mMKHdSTDtkQ_AUICigB&biw=1619&bih=615#imgrc=_jfzgH3qVTgkZM:" /img&gt</p>
+    <h6  style="font-size:100%;">Display</h6>
+       <p><img src="https://www.google.com/search?q=christmas+tree&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjx9YXMwe_XAhUW8mMKHdSTDtkQ_AUICigB&biw=1619&bih=615#imgrc=_jfzgH3qVTgkZM:"/img></p>
+       
+       
