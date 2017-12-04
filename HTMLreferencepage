@@ -65,4 +65,4 @@
     <h5  style="font-size:100%;">Example</h5>
       <p>I wanna know 5ltbr&gt have you ever seen the rain</p>
     <h6  style="font-size:100%;">Display</h6>
-        I wanna know <br> have you ever seen the rain
+       <p>I wanna know <br> have you ever seen the rain</p>
