@@ -86,4 +86,4 @@
     <h5  style="font-size:100%;">Example</h5>
       <p> &lt!--Comment Here--&gt</p>
     <h6  style="font-size:100%;">Display</h6>
-       <p> <!--Comment Here--> </p>
+       <p><!--Comment Here--></p>
