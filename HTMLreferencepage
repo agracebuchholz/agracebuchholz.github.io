@@ -55,5 +55,5 @@
     <h5  style="font-size:100%;">Example</h5>
       <p>Example: &lthead&gt "Soups" &lt/head&gt.</p>
     <h6  style="font-size:100%;">Display</h6>
-      <p>My favorite artist is Thomas Cole. His piece "slave ship" is insightful and well done.</p>
+      <head> Soups </head>
 
