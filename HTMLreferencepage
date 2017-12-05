@@ -91,7 +91,7 @@
       <td>Links</td>
       <td>&lta href = "url" </td>
       <td>/a&gt</td>
-      <td> &lta href = "https://www.w3schools.com/html/default.asp" /a&gt
+      <td> &lta href = "https://www.w3schools.com/html/default.asp" /a&gt </td>
       </tr>
       
 
@@ -100,7 +100,7 @@
         <td>Images</td>
         <td> &ltimg src = ".jpg link" </td>
         <td> /img&gt</td>
-        <td> &lt img src = "https://commons.wikimedia.org/wiki/File:Sunflower_from_Silesia2.jpg" /img&gt
+        <td> &lt img src = "https://commons.wikimedia.org/wiki/File:Sunflower_from_Silesia2.jpg" /img&gt </td>
     </tr>
    
    
@@ -111,7 +111,8 @@
         <td>&ltul&gt 
             &ltli&gt hamburgers &lt/li&gt
             &ltli&gt hotdogs &lt/li&gt
-              &ltul&gt
+              &ltul&gt </td>
+        </tr>
             
         
         
