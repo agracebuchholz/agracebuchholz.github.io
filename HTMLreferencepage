@@ -31,7 +31,11 @@
     <td>&ltHTML&gt</td>
   </tr>
   <tr>
-      <td>
+      <td>Titles</td>
+      <td>&lttitle&gt</td>
+      <td>no end tag</td>
+      <td>&lttitle&gt Dogs of the World &lt/title&gt</td>
+   </tr>
 </table>
     
     
