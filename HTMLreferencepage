@@ -25,7 +25,7 @@
   </tr>
 
 <tr>
-    <td>HTML</td>
+    <td><a href="#HTML">HTML</a></td>
     <td>&ltHTML&gt</td> 
     <td>no end tag</td>
     <td>&ltHTML&gt</td>
@@ -123,7 +123,7 @@
   
   <hr>
   
-    <h2  style="font-size:200%;">HTML Setup</h2>
+    <h2 id="HTML" style="font-size:200%;">HTML Setup</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Introduce HTML format to a website</p>
     <h4  style="font-size:100%;">Syntax</h4>
