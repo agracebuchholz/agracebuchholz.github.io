@@ -33,9 +33,25 @@
   <tr>
       <td>Titles</td>
       <td>&lttitle&gt</td>
-      <td>no end tag</td>
+      <td>&lt/title&gt</td>
       <td>&lttitle&gt Dogs of the World &lt/title&gt</td>
    </tr>
+    <tr>Body</tr>
+    <tr>&ltp&gt</tr>
+    <tr>&lt/p&gt</tr>
+    <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
+    </tr>
+    <tr>
+      <td>Head</td>
+      <td>&lthead&gt</td>
+      <td>&lt/head&gt</td>
+      <td>&lthead&gt Favorite Dog Types &lt/head&gt</td>
+    </tr>
+    <tr>
+      <td>Breaks</td>
+      <td>&ltbr&gt</td>
+      <td>no end tag</td>
+      <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
 </table>
     
     
