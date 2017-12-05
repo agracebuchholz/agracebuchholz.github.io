@@ -21,7 +21,7 @@
     <td>Headings</td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
-    <td>&lth&gt Headings &lt/h&gt </td>
+    <td>&lth&gt Headings &lt/h&gt</td>
   </tr>
 
 <tr>
@@ -63,7 +63,6 @@
       <td>&ltbr&gt</td>
       <td>no end tag</td>
       <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
-</table>
      </tr>
     
     
@@ -108,7 +107,7 @@
             &ltli&gt hotdogs &lt/li&gt
               &ltul&gt </td>
         </tr>
-            
+            </table>
         
         
         
