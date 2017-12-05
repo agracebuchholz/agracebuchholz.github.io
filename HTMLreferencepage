@@ -9,10 +9,6 @@
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
     
-    table, th, td {
-    border: 1px solid black;
-}
-    
     <table style="width:100%">
   <tr>
     <th>Element</th>
@@ -68,13 +64,14 @@
       <td>no end tag</td>
       <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
 </table>
+     </tr>
     
     
     <tr>
       <td>Lines</td>
       <td>&lthr&gt</td>
-      <td> no end tag</td>
-      <td> &lthr&gt </td>
+      <td>no end tag</td>
+      <td>&lthr&gt</td>
    </tr> 
    
    <tr>
