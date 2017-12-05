@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
-    <link href="index.css" rel="stylesheet" type="text/css" /
+    <link href="index.css" rel="stylesheet" type="text/css" </head>
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
     
@@ -77,13 +77,11 @@
       <td> &lthr&gt </td>
    </tr> 
    
-  
-   
    <tr>
-    <td>Comments</td>
-    <td>&lt!-- -- &gt</td>
-    <td>no end tag</td>
-    <td>&lt!-- --&gt</td>
+     <td>Comments</td>
+      <td>&lt!-- -- &gt</td>
+      <td>no end tag</td>
+      <td>&lt!-- --&gt</td>
     </tr>
     
     
