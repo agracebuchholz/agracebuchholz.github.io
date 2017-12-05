@@ -18,35 +18,48 @@
     <th>End Tag</th>
     <th>Example</th>
   </tr>
+  
+ 
+<hr>
+
   <tr>
     <td>Headings</td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
     <td>&lth&gt Headings &lt/h&gt </td>
   </tr>
-  <tr>
+<hr>
+<tr>
     <td>HTML</td>
     <td>&ltHTML&gt</td> 
     <td>no end tag</td>
     <td>&ltHTML&gt</td>
   </tr>
+  
+<hr>
   <tr>
       <td>Titles</td>
       <td>&lttitle&gt</td>
       <td>&lt/title&gt</td>
       <td>&lttitle&gt Dogs of the World &lt/title&gt</td>
    </tr>
+    
+ <hr>
+    
     <td>Body</td>
     <td>&ltp&gt</td>
     <td>&lt/p&gt</td>
     <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
     </tr>
-    <tr>
+ <hr>
+ <tr>
       <td>Head</td>
       <td>&lthead&gt</td>
       <td>&lt/head&gt</td>
       <td>&lthead&gt Favorite Dog Types &lt/head&gt</td>
     </tr>
+    
+    <hr>
     <tr>
       <td>Breaks</td>
       <td>&ltbr&gt</td>
@@ -54,7 +67,55 @@
       <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
 </table>
     
+    <hr>
     
+    <tr>
+      <td>Lines</td>
+      <td>&lthr&gt</td>
+      <td> no end tag</td>
+      <td> &lthr&gt </td>
+   </tr> 
+   <hr>
+   
+   <tr>
+    <td>Comments</td>
+    <td>&lt!-- -- &gt</td>
+    <td>no end tag</td>
+    <td>&lt!-- --&gt</td>
+    </tr>
+    
+    <hr>
+    
+    <tr>
+      <td>Links</td>
+      <td>&lta href = "url" </td>
+      <td>/a&gt</td>
+      <td> &lta href = "https://www.w3schools.com/html/default.asp" /a&gt
+      </tr>
+      
+  <hr>
+  
+      <tr>
+        <td>Images</td>
+        <td> &ltimg src = ".jpg link" </td>
+        <td> /img&gt</td>
+        <td> &lt img src = "https://commons.wikimedia.org/wiki/File:Sunflower_from_Silesia2.jpg" /img&gt
+    </tr>
+    
+   <hr>
+   
+      <tr>
+        <td>Lists</td>
+        <td>&ltul&gt and &ltli&gt</td>
+        <td>&lt/ul&gt and &lt/li&gt</td>
+        <td>&ltul&gt 
+            &ltli&gt hamburgers &lt/li&gt
+            &ltli&gt hotdogs &lt/li&gt
+              &ltul&gt
+            
+        
+        
+        
     <h2  style="font-size:200%;">Headers</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Introduce each paragraph.</p>
