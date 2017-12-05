@@ -5,9 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
-    <link href="index.css" rel="stylesheet" type="text/css" />
-  \
-  <hr>
+    <link href="index.css" rel="stylesheet" type="text/css" /
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
     
@@ -21,8 +19,7 @@
   
  
 <hr>
-
-  <tr>
+<tr>
     <td>Headings</td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
@@ -45,7 +42,7 @@
    </tr>
     
  <hr>
-    
+ <tr>  
     <td>Body</td>
     <td>&ltp&gt</td>
     <td>&lt/p&gt</td>
