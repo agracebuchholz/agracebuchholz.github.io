@@ -21,16 +21,13 @@
     <th>Example</th>
   </tr>
   
- 
-<hr>
-  
   <tr>
     <td>Headings</td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
     <td>&lth&gt Headings &lt/h&gt </td>
   </tr>
-<hr>
+
 <tr>
     <td>HTML</td>
     <td>&ltHTML&gt</td> 
@@ -38,7 +35,6 @@
     <td>&ltHTML&gt</td>
   </tr>
   
-<hr>
   
   <tr>
       <td>Titles</td>
@@ -47,16 +43,13 @@
       <td>&lttitle&gt Dogs of the World &lt/title&gt</td>
    </tr>
     
- <hr>
+
    <tr>  
         <td>Body</td>
        <td>&ltp&gt</td>
        <td>&lt/p&gt</td>
        <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
      </tr>
-
-
-<hr>
 
 
     <tr>
@@ -66,7 +59,7 @@
       <td>&lthead&gt Favorite Dog Types &lt/head&gt</td>
     </tr>
     
-    <hr>
+  
    
    
    <tr>
@@ -76,7 +69,6 @@
       <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
 </table>
     
-    <hr>
     
     <tr>
       <td>Lines</td>
@@ -85,8 +77,7 @@
       <td> &lthr&gt </td>
    </tr> 
    
-   
-   <hr>
+  
    
    <tr>
     <td>Comments</td>
@@ -95,7 +86,6 @@
     <td>&lt!-- --&gt</td>
     </tr>
     
-    <hr>
     
     <tr>
       <td>Links</td>
@@ -104,7 +94,7 @@
       <td> &lta href = "https://www.w3schools.com/html/default.asp" /a&gt
       </tr>
       
-  <hr>
+
   
       <tr>
         <td>Images</td>
@@ -112,8 +102,7 @@
         <td> /img&gt</td>
         <td> &lt img src = "https://commons.wikimedia.org/wiki/File:Sunflower_from_Silesia2.jpg" /img&gt
     </tr>
-    
-   <hr>
+   
    
       <tr>
         <td>Lists</td>
