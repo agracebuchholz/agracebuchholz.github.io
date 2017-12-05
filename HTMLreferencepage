@@ -9,6 +9,10 @@
   
     <h1  style=¨font-size:600;¨>HTML Reference Page</h1>
     
+    table, th, td {
+    border: 1px solid black;
+}
+    
     <table style="width:100%">
   <tr>
     <th>Element</th>
@@ -19,7 +23,8 @@
   
  
 <hr>
-<tr>
+  
+  <tr>
     <td>Headings</td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
@@ -34,6 +39,7 @@
   </tr>
   
 <hr>
+  
   <tr>
       <td>Titles</td>
       <td>&lttitle&gt</td>
@@ -42,14 +48,18 @@
    </tr>
     
  <hr>
- <tr>  
-    <td>Body</td>
-    <td>&ltp&gt</td>
-    <td>&lt/p&gt</td>
-    <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
-    </tr>
- <hr>
- <tr>
+   <tr>  
+        <td>Body</td>
+       <td>&ltp&gt</td>
+       <td>&lt/p&gt</td>
+       <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
+     </tr>
+
+
+<hr>
+
+
+    <tr>
       <td>Head</td>
       <td>&lthead&gt</td>
       <td>&lt/head&gt</td>
@@ -57,7 +67,9 @@
     </tr>
     
     <hr>
-    <tr>
+   
+   
+   <tr>
       <td>Breaks</td>
       <td>&ltbr&gt</td>
       <td>no end tag</td>
@@ -72,6 +84,8 @@
       <td> no end tag</td>
       <td> &lthr&gt </td>
    </tr> 
+   
+   
    <hr>
    
    <tr>
