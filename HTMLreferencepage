@@ -18,7 +18,7 @@
   </tr>
   
   <tr>
-    <td>Headings</td>
+    <td><a href="Headings>Headings</a></td>
     <td>&lth&gt</td> 
     <td>&lt/h&gt</td>
     <td>&lth&gt Headings &lt/h&gt</td>
@@ -33,7 +33,7 @@
   
   
   <tr>
-      <td>Titles</td>
+      <td><a href="#Titles">Titles</a></td>
       <td>&lttitle&gt</td>
       <td>&lt/title&gt</td>
       <td>&lttitle&gt Dogs of the World &lt/title&gt</td>
@@ -41,7 +41,7 @@
     
 
    <tr>  
-        <td>Body</td>
+        <td><a href="#Body">Body</a></td>
        <td>&ltp&gt</td>
        <td>&lt/p&gt</td>
        <td>&ltp&gt My favorite type of of dog is a Border Collie, Australian Shepard, or Bernese Mountain Dog.&lt/p&gt</td>
@@ -49,7 +49,7 @@
 
 
     <tr>
-      <td>Head</td>
+      <td><a href="#Head">Head</a></td>
       <td>&lthead&gt</td>
       <td>&lt/head&gt</td>
       <td>&lthead&gt Favorite Dog Types &lt/head&gt</td>
@@ -59,7 +59,7 @@
    
    
    <tr>
-      <td>Breaks</td>
+      <td><a href="#Breaks>Breaks</a></td>
       <td>&ltbr&gt</td>
       <td>no end tag</td>
       <td> I'd fly to the moon &ltbr&gt to get away from you &ltbr&gt and the sound of your heartstring tune 
@@ -67,14 +67,14 @@
     
     
     <tr>
-      <td>Lines</td>
+      <td><a href="#Lines"<Lines</a></td>
       <td>&lthr&gt</td>
       <td>no end tag</td>
       <td>&lthr&gt</td>
    </tr> 
    
    <tr>
-     <td>Comments</td>
+     <td><a href="#Comments">Comments</a></td>
       <td>&lt!-- -- &gt</td>
       <td>no end tag</td>
       <td>&lt!-- --&gt</td>
@@ -82,7 +82,7 @@
     
     
     <tr>
-      <td>Links</td>
+      <td><a href="#Links">Links</a></td>
       <td>&lta href = "url" </td>
       <td>/a&gt</td>
       <td> &lta href = "https://www.w3schools.com/html/default.asp" /a&gt </td>
@@ -91,7 +91,7 @@
 
   
       <tr>
-        <td>Images</td>
+        <td><a href="#Images">Images</a></td>
         <td> &ltimg src = ".jpg link" </td>
         <td> /img&gt</td>
         <td> &lt img src = "https://commons.wikimedia.org/wiki/File:Sunflower_from_Silesia2.jpg" /img&gt </td>
@@ -99,7 +99,7 @@
    
    
       <tr>
-        <td>Lists</td>
+        <td><a href="#Lists">Lists</a></td>
         <td>&ltul&gt and &ltli&gt</td>
         <td>&lt/ul&gt and &lt/li&gt</td>
         <td>&ltul&gt 
@@ -111,7 +111,7 @@
         
         
         
-    <h2  style="font-size:200%;">Headers</h2>
+    <h2 id="Headers" style="font-size:200%;">Headers</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Introduce each paragraph.</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -133,7 +133,7 @@
   
   <hr>
   
-      <h2  style="font-size:200%;">Titles</h2>
+      <h2 id="Titles" style="font-size:200%;">Titles</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Titles each piece</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -145,7 +145,7 @@
   
   <hr>
   
-      <h2  style="font-size:200%;">Body</h2>
+      <h2 id="Body" style="font-size:200%;">Body</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Starts and ends the paragraphs</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -157,7 +157,7 @@
   
   <hr>
   
-       <h2  style="font-size:200%;">Head</h2>
+       <h2 id="Head"  style="font-size:200%;">Head</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Heads the paragraph</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -169,7 +169,7 @@
   
   <hr>
   
-         <h2  style="font-size:200%;">Breaks</h2>
+         <h2 id="Breaks" style="font-size:200%;">Breaks</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Splits data/words into lines</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -181,7 +181,7 @@
   
   <hr>
   
-      <h2  style="font-size:200%;">Lines</h2>
+      <h2 id="Lines"  style="font-size:200%;">Lines</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Splits data/words with horizontal line, rather than paragraph break</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -194,7 +194,7 @@
   <hr>
   
        
-         <h2  style="font-size:200%;">Comments</h2>
+         <h2  id="Comments"  style="font-size:200%;">Comments</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>allows other to contribute to your page</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -206,7 +206,7 @@
 
 <hr>
 
- <h2  style="font-size:200%;">Links</h2>
+ <h2  id="Links" style="font-size:200%;">Links</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>after clicking, reroutes user to a new page</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -218,7 +218,7 @@
 
 <hr>
 
-        <h2  style="font-size:200%;">Images</h2>
+        <h2  id="Images"  style="font-size:200%;">Images</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>Inserts photographs or drawings into webpage</p>
     <h4  style="font-size:100%;">Syntax</h4>
@@ -230,7 +230,7 @@
 
 <hr>
 
-       <h2  style="font-size:200%;">Lists</h2>
+       <h2 id="Lists" style="font-size:200%;">Lists</h2>
     <h3  style="font-size:100%;">Description</h3>
         <p>states multiple things in list order</p>
     <h4  style="font-size:100%;">Syntax</h4>
