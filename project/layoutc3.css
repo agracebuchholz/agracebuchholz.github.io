@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+    background-color: #127597;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    padding: 1cm 1cm 1cm 1cm;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover:not(.active) {
+    background-color: #a22a2a;
+    color: black;
+}
+
+/* indicate active page on nav */
+#activepage {
+    background-color: #4CAF50;
+}
+
+/* A - Create three unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+    width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column.side, .column.middle {
+        width: 100%;
+    }
+}
+
+/* Style the footer */
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.city {
+    background-color: #a22a2a;
+    color: black;
+    padding: 10px;
+} 
+
+.town {
+    background-color: #408000;
+    color: Black;
+    padding: 10px;
+} 
+
+.hamlet {
+    background-color: #595959;
+    color: black;
+    padding: 10px;
+} 
+
+
+h2 {
+    border-style: solid;
+    border-width: .3px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: black;
+}
+
+h4 {
+    border-style: solid;
+    border-width: .3px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: black;
+}
+
+
+h1 {
+    border-style: solid;
+    border-width: .3px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: black;
+
+}
+
+h3 {
+    border-style: solid;
+    border-width: .3px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: black;
+
+}
+
+
+
+html { 
+background-color: #D69F15;
+    padding: 20px;
+    text-align: center;
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+table#t01 th {
+    color: white;
+    background-color: black;
+}
